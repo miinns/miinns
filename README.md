@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp;
   </p>
   
-  <h3 align="center"><b>📩 Contacts 📩</b></h3>
-  <p align="center">
-    <a href="https://github.com/miinns"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=github.com/miinns"/></a>&nbsp;
-    <a href="mailto:miin006@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=miin006@naver.com"/></a>&nbsp;
-  </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=miinns&show_icons=true&theme=material-palenight"/>&nbsp;
   </p>
